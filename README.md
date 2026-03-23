@@ -1,0 +1,2 @@
+# hug-companion
+OpenClaw skill
